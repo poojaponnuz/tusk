@@ -5,3 +5,8 @@ Welcome to Telusko Kitchen
 kheer
 pasta
 Chicken fry
+Pizza
+Beans
+
+
+thankyou );
